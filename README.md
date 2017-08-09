@@ -1,3 +1,9 @@
+# This is a blending of create-react-app and ReduxSimpleStarter
+
+This repo is an blending of Facebook's [create-react-app](https://github.com/facebookincubator/create-react-app) and Stephen Grider's [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter). I created this hybrid because ReduxSimpleStarter - on its own - is just far too inferior to the great bells and whistles of the create-react-app.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
